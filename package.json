@@ -1,0 +1,17 @@
+{
+  "name": "nodejs2-serveurs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exercice0 (OK).js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "colors": "^1.4.0",
+    "mongodb": "^3.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
